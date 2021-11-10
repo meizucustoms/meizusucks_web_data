@@ -20,20 +20,20 @@
             "title": "Features",
             "opensource": {
                 "title": "Open-Source",
-                "description": "MeizuSucks kernel is fully open source and you can explore its code on our GitHub. This provides you latest security patches, polished drivers and be sure that there are no backdoors in ROM. LineageOS is open source too."
+                "description": "MeizuSucks kernel is fully open source and you can freely explore its code by visiting GitHub and make sure that there are no backdoors in ROM. LineageOS is open source too. MeizuSucks kernel provides you the latest security patches, optimized drivers and so on."
             },
             "better_photos": {
-                "title": "Take better photos",
-                "description": "MeizuSucks ROM provides you open source camera HAL, which allows you to use RAW, Camera2API and of course Google Camera!"
+                "title": "Better photos",
+                "description": "MeizuSucks ROM provides you open source camera HAL, which allows you to use RAW, Camera2API and of course Google Camera! Your camera gets a second life."
             },
             "new_android": {
-                "title": "New Android",
-                "description": "MeizuSucks provides you fresh Android version with new drivers and security patches. This gives you better performance in OS and games."
+                "title": "New Android version",
+                "description": "MeizuSucks provides you fresh Android version with brand new drivers and security patches. OS is running smooth and you get much more performance in games and programms."
             }
         },
         "links": {
-            "bugs": "Bugs and report form",
-            "donate": "Donaters, link to ko-fi",
+            "bugs": "Bugs\ Bugs report form",
+            "donate": "Donaters list\make a Donate",
             "download": "Download ROM",
             "notes": "Release notes"
         },
@@ -45,16 +45,16 @@
             },
             "orangefox": {
                 "title": "Install OrangeFox",
-                "description": "Install OrangeFox recovery with modern UI and advaned features in comparsion with official TWRP."
+                "description": "Install OrangeFox recovery with modern UI which provides you advanced features in comparsion with official TWRP."
             },
             "modem": {
                 "title": "Install Flyme 8 modem",
-                "description": "To avoid some unexpected bugs, you need to install Flyme 8 modem and some other firmwares from it. All of these firmwares located in this patch:"
+                "description": "To avoid some unexpected bugs, you need to install Flyme 8 modem and some other firmwares from it. All of them located in this patch:"
             },
             "install": {
                 "title": "Install MeizuSucks!",
-                "description": "Download MeizuSucks from download section of this website, wipe data, cache, dalvik-cache and system, then flash MeizuSucks!",
-                "note": "Note: install BitGAPPS/NikGAPPS after MeizuSucks if needed. Installation of Magisk disallows you to send bug reports and get help from developers."
+                "description": "Download MeizuSucks from download link, wipe data, cache, dalvik-cache and system, then flash MeizuSucks!",
+                "note": "Note: install BitGAPPS/NikGAPPS after MeizuSucks if you need. Warning. Installation of Magisk forbid you to send bug reports and get help from developers."
             }
         }
     },
@@ -81,15 +81,15 @@
         "remove_photo": "Remove photo",
         "log_title": "Logcat or pstore",
         "log_info": "How to take log",
-        "log_file": "Attach file",
+        "log_file": "Attach the file",
         "final": "The final part",
         "submit": "Submit your report",
-        "dima_mode": "Maybe your bug was already detected?",
+        "dima_mode": "Is your bug already detected?",
         "bugs": "Latest build bugs",
         "log_guide": "coming soon :)"
     },
     "bugs": {
-        "title": "Known bugs",
+        "title": "Known bugs list",
         "id": "ID",
         "not_listed": "Your bug not listed here?",
         "create": "Create a bug report"
