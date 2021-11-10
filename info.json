@@ -1,0 +1,31 @@
+{
+    "releases_info": [
+        {
+            "id": "m1721-20211103-1335",
+            "bugs": [
+                "Light sensor doesn't work",
+                "Focusing in Snap works strange",
+                "Wi-Fi display"
+            ],
+            "notes": [
+                "Fixed system freezes caused by fingerprint",
+                "Fixed green photos in Snap"
+            ]
+        }
+    ],
+    "donaters": [
+        "Ľubomír Konečný",
+        "Michail Kasmeridis",
+        "Abdallah",
+        "Natalia M",
+        "Kampotik",
+        "nexussed!",
+        "Trevor Cooper (not an actor)",
+        "Baratynsky",
+        "Kesha",
+        "Vitya Pomidorchik",
+        "areyoustupido",
+        "rtx4d",
+        "Sergey Herrington"
+    ]
+}
