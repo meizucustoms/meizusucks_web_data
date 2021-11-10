@@ -32,8 +32,8 @@
             }
         },
         "links": {
-            "bugs": "Bugs\ Bugs report form",
-            "donate": "Donaters list\make a Donate",
+            "bugs": "Bugs/Bugs report form",
+            "donate": "Donaters list/make a Donate",
             "download": "Download ROM",
             "notes": "Release notes"
         },
