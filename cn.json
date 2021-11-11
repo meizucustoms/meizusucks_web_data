@@ -1,0 +1,103 @@
+{
+￼    "appbar": {
+￼        "donate_hint": "捐赠",
+￼        "bug_hint": "Bugs",
+￼        "download_hint": "下载",
+￼        "notes_hint": "发行说明"
+￼    },
+￼    "footer": {
+￼        "links": "MeizuSucks链接",
+￼        "tgchannel": "电报频道",
+￼        "tgchat": "电报聊天群组",
+￼        "github": "GitHub",
+￼        "copyright": "Copyright (c) 2021, MeizuSucks. This website’s source code:"
+￼    },
+￼    "main": {
+￼        "slogan_before_different": "追求 ",
+￼        "slogan_different": "源于热爱",
+￼        "slogan_after_different": "让你的魅蓝NOTE6焕发新生.",
+￼        "features": {
+￼            "title": "系统特色",
+￼            "opensource": {
+￼                "title": "开源系统",
+￼                "description": "MeizuSucks 内核完全开源，您可以访问 GitHub 自由探索其代码，并确保 ROM 中没有后门程序。LineageOS 也是开源的。MeizuSucks 内核为您第一时间提供最新的安全补丁、优化的驱动程序。."
+￼            },
+￼            "better_photos": {
+￼                "title": "更棒的拍摄体验",
+￼                "description": "MeizuSucks ROM 为您提供开源相机 HAL，它允许您拍摄 RAW格式文件、同时可以启用Camera2API，当然还有超赞的 Google 相机！让您的相机获得了第二次生命。"
+￼            },
+￼            "new_android": {
+￼                "title": "全新版本的安卓系统",
+￼                "description": "MeizuSucks 为您提供全新的 Android 版本，快速更新全新的驱动程序和安全补丁。确保您的操作系统运行流畅，使您在游戏和应用程序获得更高的性能。"
+￼            }
+￼        },
+￼        "links": {
+￼            "bugs": "错误/错误报告表",
+￼            "donate": "捐赠者名单/捐赠",
+￼            "download": "下载 ROM",
+￼            "notes": "发行说明"
+￼        },
+￼        "installation": {
+￼            "title": "安装步骤",
+￼            "bootloader": {
+￼                "title": "解锁 bootloader",
+￼                "description": "按照 4PDA 或 XDA 的指南解锁您的引导加载程序。这些步骤对于所有的魅蓝note6 ROM 都是通用的。"
+￼            },
+￼            "orangefox": {
+￼                "title": "刷入 OrangeFox",
+￼                "description": "刷入 OrangeFox recovery，它为您提供与官方 TWRP 相比的高级功能。"
+￼            },
+￼            "modem": {
+￼                "title": "刷入最新版本Flyme8",
+￼                "description": "为了避免出现意外错误，您需要刷入最新版本的Flyme 8 来保证调制解调器和其他一些固件正常工作。所有这些都在这个补丁中。"
+￼            },
+￼            "install": {
+￼                "title": "刷入MeizuSucks!",
+￼                "description": "从下载链接下载MeizuSucks，清除Data、cache、dalvik-cache、system这四个分区，然后刷MeizuSucks！",
+￼                "note": "注意：如果您需要使用谷歌服务，请在 MeizuSucks 之后刷入BitGAPPS/NikGAPPS的对应版本，刷入完成后记得格式化Data分区。特别提醒。安装 Magisk 会使系统无法发送错误报告，您也无法在开发人员那里获得帮助。"
+￼            }
+￼        }
+￼    },
+￼    "download": {
+￼        "id": "ID",
+￼        "size": "文件大小",
+￼        "version": "LOS 版本号",
+￼        "date": "发布日期",
+￼        "download": "GitHub 下载链接",
+￼        "notes": "发行说明"
+￼    },
+￼    "notes": {
+￼        "id": "ID",
+￼        "notes": "发行说明"
+￼    },
+￼    "report": {
+￼        "title": "反馈Bug",
+￼        "bug_description": "Bug 描述",
+￼        "steps": "触发Bug步骤",
+￼        "addons_title": "您设备上已安装的附加组件列表",
+￼        "addons_note": "(您安装了哪些GAPPS和其他任何补丁)",
+￼        "photos": "截图/照片",
+￼        "add_photo": "添加图片",
+￼        "remove_photo": "删除图片",
+￼        "log_title": "Logcat 或者 pstore",
+￼        "log_info": "如何获取日志文件",
+￼        "log_file": "附加文件",
+￼        "final": "最终步骤",
+￼        "submit": "提交Bug报告",
+￼        "dima_mode": "您的Bug已经被检测到了吗？",
+￼        "bugs": "最新版本的Bugs",
+￼        "log_guide": "即将推出 :)"
+￼    },
+￼    "bugs": {
+￼        "title": "已知Bug列表",
+￼        "id": "ID",
+￼        "not_listed": "您反馈的Bug没在这里？",
+￼        "create": "创建一份Bug反馈报告"
+￼    },
+￼    "donate": {
+￼        "title": "捐赠",
+￼        "kofi": "kofi",
+￼        "paypal": "PayPal",
+￼        "already_donated": "我已捐赠"
+￼    }
+￼}
