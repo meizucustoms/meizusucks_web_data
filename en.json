@@ -32,6 +32,7 @@
             }
         },
         "links": {
+            "title": "Links",
             "bugs": "Bugs/Bugs report form",
             "donate": "Donaters list/make a Donate",
             "download": "Download ROM",
