@@ -1,0 +1,106 @@
+{
+    "appbar": {
+        "donate_hint": "Пожертви",
+        "bug_hint": "Баґи",
+        "download_hint": "Завантажити",
+        "notes_hint": "Примітки до випуску"
+    },
+    "footer": {
+        "links": "Посилання MeizuSucks",
+        "tgchannel": "Telegram канал",
+        "tgchat": "Telegram чат",
+        "github": "GitHub",
+        "copyright": "Copyright (c) 2021, MeizuSucks. Вихідний код цього сайту:"
+    },
+    "main": {
+        "slogan_before_different": "Зовсім ",
+        "slogan_different": "інша",
+        "slogan_after_different": "прошивка для вашого Meizu M6 note.",
+        "features": {
+            "title": "Особливості",
+            "opensource": {
+                "title": "Відкритий код",
+                "description": "Ядро MeizuSucks має повністю відкритий код та вільно дослідити його на GitHub та впевнетись в відсутності бекдорів в прошивці. LineageOS теж з відкритим кодом. Ядро MeizuSucks дає вам останні оновлення безпеки, оптимізовані драйвери та багато іншого."
+            },
+            "better_photos": {
+                "title": "Кращі фото",
+                "description": "Прошивка MeizuSucks використовує HAL камери з відкритим вихідним кодом, що дозволяє вам використати RAW, Camera2API та звичайно Google Camera! Ваша камера отримає нове життя."
+            },
+            "new_android": {
+                "title": "Нова версія Android",
+                "description": "MeizuSucks встановлює свіжу версію Android з новими драйверами та оновленнями безпеки. Операційна система працює плавно та має більшу продуктивність в іграх та программах."
+            }
+        },
+        "links": {
+            "title": "Посилання",
+            "bugs": "Баґи/Форма для баґ-репорту",
+            "donate": "Список спонсорів/зробити пожертву",
+            "download": "Завантажити прошивку",
+            "notes": "Примітки до випуску"
+        },
+        "installation": {
+            "title": "Як встановити:",
+            "bootloader": {
+                "title": "Розблокувати завантажувач",
+                "description": "Розблокуйте ваш завантажувач за відповідною інструкцією з 4PDA чи XDA. Ці етапи універсальні для будь-якої прошивки M6 Note."
+            },
+            "orangefox": {
+                "title": "Встановити OrangeFox",
+                "description": "Встановити відновлювач OrangeFox з сучасним UI, що дає вам просунуті можливості в порівнянні з офіціальним TWRP."
+            },
+            "modem": {
+                "title": "Встановити Flyme 8 модем",
+                "description": "Щоб уникнути неочікуваних баґів, вам необхідно встановити можем від Flyme 8 та деякі інші прошивки з Flyme 8. Всі вони є в цьому патчі:"
+            },
+            "install": {
+                "title": "Встановіть MeizuSucks!",
+                "description": "Встановіть MeizuSucks за посиланням, зробіть wipe розділів data, cache, dalvik-cache та system, після чого прошийте MeizuSucks!",
+                "note": "Важливо: встановіть BitGAPPS/NikGAPPS після MeizuSucks в разі необхідності. Попередження. Встановлення Magisk заборонить вам надсилати баґ-репорти та отримати допомогу від розробників."
+            },
+            "download_orangefox": "Завантажити OrangeFox",
+            "download_patch": "Завантажити патч"
+        }
+    },
+    "download": {
+        "id": "ID",
+        "size": "Розмір",
+        "version": "Версія LOS",
+        "date": "Дата випуску",
+        "download": "Завантажити з GitHub",
+        "notes": "Примітки до випуску"
+    },
+    "notes": {
+        "id": "ID",
+        "notes": "Примітки до випуску"
+    },
+    "report": {
+        "title": "Повідомити про баґ",
+        "bug_description": "Опис баґу",
+        "steps": "Шляхи для відтворення",
+        "addons_title": "Встановленні додатки",
+        "addons_note": "(вкажіть версію встановлену версію GAPPS чи інші патчі)",
+        "photos": "Скріншоти/фото",
+        "add_photo": "Додати фото",
+        "remove_photo": "Видалити фото",
+        "log_title": "Logcat чи pstore",
+        "log_info": "Як записати лог",
+        "log_file": "Прикріпити файл",
+        "final": "Фінал",
+        "submit": "Надіслати ваш репорт",
+        "dima_mode": "Чи ваш баґ вже виявленний?",
+        "bugs": "Баґи останньої збірки",
+        "log_guide": "скоро буде :)"
+    },
+    "bugs": {
+        "title": "Known bugs list",
+        "id": "ID",
+        "not_listed": "Your bug not listed here?",
+        "create": "Повідомити про баґ"
+    },
+    "donate": {
+        "title": "Пожертви",
+        "kofi": "ko-fi",
+        "paypal": "PayPal",
+        "already_donated": "Вже проспонсорували"
+    }
+}
