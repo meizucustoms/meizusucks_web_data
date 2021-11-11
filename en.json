@@ -56,7 +56,9 @@
                 "title": "Install MeizuSucks!",
                 "description": "Download MeizuSucks from download link, wipe data, cache, dalvik-cache and system, then flash MeizuSucks!",
                 "note": "Note: install BitGAPPS/NikGAPPS after MeizuSucks if you need. Warning. Installation of Magisk forbid you to send bug reports and get help from developers."
-            }
+            },
+            "download_orangefox": "Download OrangeFox",
+            "download_patch": "Download patch"
         }
     },
     "download": {
