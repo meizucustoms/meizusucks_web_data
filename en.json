@@ -86,6 +86,7 @@
         "log_title": "Logcat or pstore",
         "log_info": "How to take log",
         "log_file": "Attach the file",
+        "log_remove": "Detach the file",
         "final": "The final part",
         "submit": "Submit your report",
         "dima_mode": "Is your bug already detected?",
