@@ -62,6 +62,7 @@
         }
     },
     "download": {
+        "title": "Latest release",
         "id": "ID",
         "size": "Size",
         "version": "LOS version",
