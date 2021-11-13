@@ -75,6 +75,7 @@
     },
     "report": {
         "title": "Report a bug",
+        "tgname": "Your Telegram nickname",
         "bug_description": "Bug description",
         "steps": "Steps to reproduce",
         "addons_title": "Installed add-ons",
