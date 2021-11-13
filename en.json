@@ -91,7 +91,8 @@
         "submit": "Submit your report",
         "dima_mode": "Is your bug already detected?",
         "bugs": "Latest build bugs",
-        "log_guide": "coming soon :)"
+        "log_guide": "coming soon :)",
+        "sent": "Bug report was sent."
     },
     "bugs": {
         "title": "Known bugs list",
