@@ -1,0 +1,108 @@
+{
+    "appbar": {
+        "donate_hint": "Prispieť",
+        "bug_hint": "Chyby",
+        "download_hint": "Stiahnuť",
+        "notes_hint": "Poznámky k vydaniu"
+    },
+    "footer": {
+        "links": "MeizuSucks odkazy",
+        "tgchannel": "Telegram kanál",
+        "tgchat": "Telegram čet",
+        "github": "GitHub",
+        "copyright": "Copyright (c) 2021, MeizuSucks. Zdrojový kód tejto stránky:"
+    },
+    "main": {
+        "slogan_before_different": "Iná ",
+        "slogan_different": "custom ROM",
+        "slogan_after_different": "pre Váš Meizu M6 Note.",
+        "features": {
+            "title": "Funkcie",
+            "opensource": {
+                "title": "Open-Source",
+                "description": "MeizuSucks kernel je plne open source a vy si môžete prezrieť jeho kód navštívením GitHubu a môžete sa uistiť že neobsahuje žiadne zadné vrátka. LineageOS je tiež open source. MeizuSucks kernel Vám takisto poskytuje najnovšie bezpečnostné záplaty, optimalizované ovládače a tak ďalej."
+            },
+            "better_photos": {
+                "title": "Lepšie fotky",
+                "description": "MeizuSucks ROM Vám poskytuje open source kameru HAL, ktorá Vám umožňuje používať RAW, Camera2API a samozrejme aj Fotoaparát Google! Vaša kamera dostane druhý život."
+            },
+            "new_android": {
+                "title": "Nové Android verzie",
+                "description": "MeizuSucks Vám poskytuje čerstvé Android verzie s celkom novými ovládačmi a bezpečnostnými záplatami. OS funguje plynulo a Vy si užijete oveľa viac výkonu v hrach a programoch."
+            }
+        },
+        "links": {
+            "title": "Odkazy",
+            "bugs": "Chyby/Formulár k nahlaseniu chýb",
+            "donate": "Zoznam prispievateľov/Prispejte aj Vy",
+            "download": "Stiahnuť ROM",
+            "notes": "Poznámky k vydaniu"
+        },
+        "installation": {
+            "title": "Ako nainštalovať",
+            "bootloader": {
+                "title": "Odomknutie bootloaderu",
+                "description": "Odomknite bootloader následovaním návodov na stránkach 4PDA alebo XDA. Tieto kroky sú rovnaké pre všetky M6 Note ROM-ky."
+            },
+            "orangefox": {
+                "title": "Nainštalujte OrangeFox",
+                "description": "Nainštalujte OrangeFox obnovenie s moderným UI, ktoré Vám poskytuje pokročilé funkcie v porovnaní s oficialnými TWRP."
+            },
+            "modem": {
+                "title": "Nainštalujte Flyme 8 modem",
+                "description": "Aby ste sa vyhli neočakávaným chybám, musíte si nainštalovať Flyme 8 modem a ostatné firmware, ktoré obsahuje. Všetky z nich nájdete v tomto patchy:"
+            },
+            "install": {
+                "title": "Nainštalujte MeizuSucks!",
+                "description": "Stiahnite MeizuSucks z odkazu na stiahnutie, vymažte dáta, cache, dalvik-cache a systém, potom flashnite MeizuSucks!",
+                "note": "Poznámka: ak potrebujete, nainštalujte BitGAPPS/NikGAPPS po flashnutí MeizuSucks. Upozornenie. Inštalácia Magisku Vám zakazuje nahlasovanie chýb, pomoc hľadajte u vývojarov."
+            },
+            "download_orangefox": "Stiahnuť OrangeFox",
+            "download_patch": "Stiahnuť patch"
+        }
+    },
+    "download": {
+        "id": "ID",
+        "size": "Veľkosť",
+        "version": "Verzia LOS",
+        "date": "Dátum vydania",
+        "download": "Stianuť z GitHubu",
+        "notes": "Poznámky k vydaniu"
+    },
+    "notes": {
+        "id": "ID",
+        "notes": "Poznámky k vydaniu"
+    },
+    "report": {
+        "title": "Nahlásiť chybu",
+        "tgname": "Vaša prezývka na Telegrame",
+        "bug_description": "Opis chyby",
+        "steps": "Kroky k zopakovaniu",
+        "addons_title": "Nainštalované doplnky",
+        "addons_note": "(aké GAPPS a všetky ostatné patche máte nainštalované)",
+        "photos": "Fotky (obrazovky)",
+        "add_photo": "Pridať fotku",
+        "remove_photo": "Odstrániť fotku",
+        "log_title": "Logcat alebo pstore",
+        "log_info": "Ako získať log",
+        "log_file": "Pridaj súbor",
+        "log_remove": "Odober súbor",
+        "final": "Konečná časť",
+        "submit": "Podaj hlásenie",
+        "dima_mode": "Bola už Vaša chyba nahlasená?",
+        "bugs": "Najnovšie chyby",
+        "log_guide": "už čoskoro :)"
+    },
+    "bugs": {
+        "title": "Známe chyby",
+        "id": "ID",
+        "not_listed": "Nevidíte Vašu chybu?",
+        "create": "Vytvoriť chybové hlásenie"
+    },
+    "donate": {
+        "title": "Prispieť",
+        "kofi": "ko-fi",
+        "paypal": "PayPal",
+        "already_donated": "Už som prispel"
+    }
+}
