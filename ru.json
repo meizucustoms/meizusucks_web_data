@@ -54,8 +54,8 @@
             },
             "install": {
                 "title": "Установите MeizuSucks!",
-                "description": "Скачайте MeizuSucks по ссылке для скачивания, сделайте вайп data, cache, dalvik-cache и system, затем прошиваете MeizuSucks!",
-                "note": "Примечание: установите BitGAPPS/NikGAPPS после установки MeizuSucks если вам нужны гугл-сервисы. Внимание. Установка Magisk лишает вас права сообщать о различных багов и получать помощь от разработчиков."
+                "description": "Скачайте MeizuSucks по ссылке для скачивания, сделайте вайп data, cache, dalvik-cache и system, затем прошивайте MeizuSucks!",
+                "note": "Примечание: установите BitGAPPS/NikGAPPS после установки MeizuSucks если вам нужны гугл-сервисы. Внимание. Установка Magisk лишает вас права сообщать о различных багах и получать помощь от разработчиков."
             },
             "download_orangefox": "Скачать OrangeFox",
             "download_patch": "Скачать патч"
