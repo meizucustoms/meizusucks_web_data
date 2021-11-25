@@ -1,6 +1,20 @@
 {
     "releases_info": [
         {
+          "id": "m1721-20211121-1538",
+          "bugs": [
+              "Light sensor doesn't work",
+              "Focusing in Snap works strange",
+              "System still freezes sometimes"
+          ],
+          "notes": [
+              "Fixed boot with very cheap display",
+              "Fixed work of very cheap touchscreens",
+              "Fixed Wi-Fi display",
+              "Improved stability of flashlight driver"
+          ]
+        },
+        {
             "id": "m1721-20211103-1335",
             "bugs": [
                 "Light sensor doesn't work",
