@@ -1,6 +1,19 @@
 {
     "releases_info": [
         {
+          "id": "m1721-20211127-1252",
+          "notes": [
+              "Fixed light sensor",
+              "Fixed speaker sound quality (only for multimedia, for ringtones use lower volume for 1-2 steps)",
+              "All battery bugs should be fixed now",
+              "Quick charge is now really quick"
+          ],
+          "bugs": [
+              "GPS hardly detects satellites and only outdoors",
+              "System still freezes"
+          ]
+        },
+        {
           "id": "m1721-20211121-1538",
           "bugs": [
               "Light sensor doesn't work",
