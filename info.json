@@ -1,6 +1,22 @@
 {
     "releases_info": [
         {
+            "id": "m1721-20211205-2152",
+            "notes": [
+                "Fixed system freezes",
+                "Fixed front camera in Snap",
+                "Fixed GPS",
+                "A lot of new AI-generated wallpapers"
+            ],
+            "bugs": [
+                "Zoom in Snap camera doesn't work",
+                "Location determine takes much time in some apps",
+                "Strange autofocus in Snap",
+                "Doubled front camera in Camera2API",
+                "Wi-Fi hotspot gets turned off when phone goes to deep sleep"
+            ]
+          },
+        {
           "id": "m1721-20211127-1252",
           "notes": [
               "Fixed light sensor",
