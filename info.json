@@ -1,6 +1,22 @@
 {
     "releases_info": [
         {
+            "id": "m1721-20211219-1451",
+            "notes": [
+                "Updated LOS sources (Android revision is the same)",
+                "Fixed front camera doubling in Camera2API mode",
+                "Cleaned some drivers' code",
+                "Brought back stock RIL props - VoLTE works",
+                "Some other minor fixes"
+            ],
+            "bugs": [
+                "Zoom in Snap camera doesn't work",
+                "Location determine takes much time in some apps",
+                "Strange autofocus in Snap",
+                "Wi-Fi hotspot gets turned off when phone goes to deep sleep"
+            ]
+        },
+        {
             "id": "m1721-20211205-2152",
             "notes": [
                 "Fixed system freezes",
@@ -15,7 +31,7 @@
                 "Doubled front camera in Camera2API",
                 "Wi-Fi hotspot gets turned off when phone goes to deep sleep"
             ]
-          },
+        },
         {
           "id": "m1721-20211127-1252",
           "notes": [
