@@ -1,6 +1,21 @@
 {
     "releases_info": [
         {
+            "id": "m1721-20211226-1929",
+            "notes": [
+                "Experimental freezes fix",
+                "Improved RAM management",
+                "Rewrote cs35l35 IRQ and reset mechanisms",
+                "Included Snap v2 to ROM - all its bugs were fixed.",
+                "Removed internal memory optimizations (they caused unstable work of ROM)",
+                "INSTALL WITH DALVIK-CACHE CLEANING"
+            ],
+            "bugs": [
+                "Location determine takes much time in some apps",
+                "Wi-Fi hotspot gets turned off when phone goes to deep sleep"
+            ]
+        },
+        {
             "id": "m1721-20211219-1451",
             "notes": [
                 "Updated LOS sources (Android revision is the same)",
